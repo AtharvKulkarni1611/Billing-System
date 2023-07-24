@@ -6,3 +6,5 @@ The PHP-Based Billing System for Local Shops is a user-friendly and efficient so
 
 - PHP 7.0 or higher
 - MySQL database
+
+## Installation
